@@ -4,6 +4,7 @@ demo.iml
 target/
 .idea/
 .DS_Store
+src/main/.DS_Store
 
 # Log file
 *.log
